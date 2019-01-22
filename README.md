@@ -1,2 +1,4 @@
 # Epicapture
-code use for the analysis of Epicapture project
+code used for the analysis of Epicapture project
+
+
